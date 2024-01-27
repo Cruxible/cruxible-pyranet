@@ -1,0 +1,20 @@
+<style>
+   /* NOTE: When copying css watch the spaces, usally one space back from tab, you have to respace the whole thing.*/
+   h1 {
+   }
+   body {
+    background-color: black;
+    background-image: url('images/abstract.jpg');
+    background-size: cover; /* this will make the image cover the whole page */
+    background-repeat: no-repeat; /* this will prevent the image from repeating */
+   }
+   a {
+    color: grey;
+    font-size: 20px;
+    }
+   img {
+       border-radius: 30px;
+       display: block;
+       margin: -60px auto 20px
+   }
+</style>
